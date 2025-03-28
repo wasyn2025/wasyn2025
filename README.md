@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 
 ### 👨🏻‍🎓 &nbsp;Educational History
-🏫 &nbsp; SMKN 7 Batam - 2021 - 2024
+🏫 &nbsp; SMKN 7 Batam - 2021 - 2024 \
 
 <img src="assets/nogding.gif" align="right"/>
 
