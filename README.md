@@ -7,6 +7,9 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 
+### 👨🏻‍🎓 &nbsp;Educational History
+🏫 &nbsp; SMKN 7 Batam - 2021 - 2024
+
 <img src="assets/nogding.gif" align="right"/>
 
 ### 👾 &nbsp;Programming Language
@@ -18,6 +21,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 
 ### 🌐 &nbsp;Web Development
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
