@@ -31,6 +31,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)&nbsp;
 ![JQuery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
