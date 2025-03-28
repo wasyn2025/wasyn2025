@@ -5,6 +5,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Wasyn Sulaiman Siregar -->
 
+<p style="color: purple;">Hello World</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
