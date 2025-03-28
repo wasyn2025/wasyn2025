@@ -28,6 +28,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)&nbsp;
+![JQuery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
