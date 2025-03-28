@@ -39,5 +39,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/wasyn7263728"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/wasyn7263728"><img src="https://img.shields.io/badge/-@wasyn7263728__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
