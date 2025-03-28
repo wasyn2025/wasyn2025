@@ -1,5 +1,6 @@
-![Aditya Vikram Singh Banner](https://github.com/wasyn2025/wasyn2025/blob/main/hero-image.jpg)
-<img alt="Hero image" src="https://github.com/wasyn2025/wasyn2025/blob/main/hero-image.jpg" style="object-fit: cover; width: 10px; height: 300px;"/>
+<!-- ![Aditya Vikram Singh Banner](https://github.com/wasyn2025/wasyn2025/blob/main/hero-image.jpg) -->
+
+<img alt="Hero image" src="https://github.com/wasyn2025/wasyn2025/blob/main/hero-image.jpg" style="object-fit: cover; width: 100%; height: 300px;"/>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hey there! I'm Wasyn Sulaiman Siregar</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Wasyn Sulaiman Siregar -->
